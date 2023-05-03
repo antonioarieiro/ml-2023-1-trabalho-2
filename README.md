@@ -1,6 +1,6 @@
 # Trabalho prático 2
 
-* Nome do Aluno: ________
+* Nome do Aluno: Antonio da silva arieiro junior
 * Número de Matrícula: ________
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
